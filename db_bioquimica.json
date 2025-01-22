@@ -53,9 +53,9 @@
                                 "Mayor número de sitios posibles de ser glicosilados.",
                                 "Ninguna de las anteriores."
                             ],
-                            "answer": "b",
+                            "answer": "c",
                             "imageanswerURL": "",
-                            "explicacion": "El aminoácido Alanina (A) se sustituye por el aminoácido Glutamano(E).<br>El aminoácido Aspartato(D) se sustituye por el aminoácido Triptófano(W).<br><br>Alanina es un aminoácido neutro apolar y cambia a Glutamato que es polar con carga negativa.<br>Aspartato es un aminoácido polar con carga negativa y cambia a Triptófano que es neutro apolar.<br><br>El balance de carga no cambia, en la primera mutación pasa de neutro a negativo y en la segunda pasa de negativo a neutro.<br><br>En la segunda mutación se sustutiye Aspartato (no esencial) por Triptófano (esencial)."
+                            "explicacion": "El aminoácido Alanina (A) se sustituye por el aminoácido Glutamato(E).<br>El aminoácido Aspartato(D) se sustituye por el aminoácido Triptófano(W).<br><br>Alanina es un aminoácido neutro apolar y cambia a Glutamato que es polar con carga negativa.<br>Aspartato es un aminoácido polar con carga negativa y cambia a Triptófano que es neutro apolar.<br><br>El balance de carga no cambia, en la primera mutación pasa de neutro a negativo y en la segunda pasa de negativo a neutro.<br><br>En la segunda mutación se sustutiye Aspartato (no esencial) por Triptófano (esencial).<br><br>No hay sustituciones que aporten aminoácidos que puedan ser glicosilados.<br>Para recordar los aminoácidos que pueden sufrir glicosilación:<br><strong>O-glucosilación</strong><br>*Serina(S).<br>*Treonina(T).*Tirosina(T).<br><strong>N-glucosilación</strong><br>*Asparagina(N)"
                         }
                     ]
                 }
