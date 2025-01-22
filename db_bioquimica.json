@@ -1,0 +1,65 @@
+{
+    "topics": {
+        "Unidad: Soluciones Amortiguadoras": {
+            "questions": [
+                {
+                    "question": "Los resultados obtenidos en una gasometría de un paciente con enfermedad obstructiva crónica y funcion renal conservada podrían ser:",
+                    "year": "2003",
+                    "imageURL": "",
+                    "options": [
+                        "pH = 7,3 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 110 mM",
+                        "pH = 7,2 - HCO<sub>3</sub><sup>-</sup> = 30 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                        "pH = 7,0 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                        "pH = 7,4 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                        "Ninguna de las anteriores"
+                    ],
+                    "answer": "b",
+                    "imageanswerURL": "",
+                    "explicacion": ""
+                }
+            ]
+        },
+        "Unidad 2: Proteínas Globulares": {
+            "subtopics": {
+                "Mioglobina": {
+                    "questions": [
+                        {
+                            "year": "2004",
+                            "question": "En el caso de la mioglobina",
+                            "imageURL": "",
+                            "options": [
+                                "El pH no afecta su afinidad por el oxígeno",
+                                "Tiene una menor afinidad por el oxígeno que la Hemoglobina",
+                                "El Fe del hemo puede variar de estados +2 a +3 y viceversa",
+                                "B y C son correctas",
+                                "NDA"
+                            ],
+                            "answer": "c",
+                            "imageanswerURL": "",
+                            "explicacion": ""
+                        }
+                    ]
+                },
+                "Hemoglobina": {
+                    "questions": [
+                        {
+                            "year": "2003",
+                            "question": "Cuando la hemoglobina sale de los tejidos se encuentra preferentemente en la forma de:",
+                            "imageURL": "",
+                            "options": [
+                                "oxihemoglobina protonada",
+                                "oxihemoglobina desprotonada",
+                                "desoxihemoglobina oxigenada",
+                                "desoxihemoglobina protonada",
+                                "desoxihemoglobina desprotonada"
+                            ],
+                            "answer": "d",
+                            "imageanswerURL": "",
+                            "explicacion": ""
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
