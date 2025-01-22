@@ -1,25 +1,68 @@
 {
     "topics": {
-        "Unidad: Soluciones Amortiguadoras": {
-            "questions": [
-                {
-                    "question": "Los resultados obtenidos en una gasometría de un paciente con enfermedad obstructiva crónica y funcion renal conservada podrían ser:",
-                    "year": "2003",
-                    "imageURL": "",
-                    "options": [
-                        "pH = 7,3 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 110 mM",
-                        "pH = 7,2 - HCO<sub>3</sub><sup>-</sup> = 30 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
-                        "pH = 7,0 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
-                        "pH = 7,4 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
-                        "Ninguna de las anteriores"
-                    ],
-                    "answer": "b",
-                    "imageanswerURL": "https://drive.google.com/thumbnail?id=12SlZQXdLXnACvPiafaqHv3Wij8ROe7ku",
-                    "explicacion": "En la enfermedad obstructiva crónica el pH disminuye por la acumulación de CO2"
+        "Parcial 1": {
+            "subtopics": {
+                "Agua y Sistemas Buffer": {
+                    "questions": [
+                        {
+                            "question": "Los resultados obtenidos en una gasometría de un paciente con enfermedad obstructiva crónica y funcion renal conservada podrían ser:",
+                            "year": "Aston 2024",
+                            "imageURL": "",
+                            "options": [
+                                "pH = 7,3 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 110 mM",
+                                "pH = 7,2 - HCO<sub>3</sub><sup>-</sup> = 30 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                                "pH = 7,0 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                                "pH = 7,4 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                                "Ninguna de las anteriores"
+                            ],
+                            "answer": "b",
+                            "imageanswerURL": "",
+                            "explicacion": ""
+                        }
+                    ]
+                },
+                "Fundamentos ácido base y aplicaciones médicas": {
+                    "questions": [
+                        {
+                            "question": "Los resultados obtenidos en una gasometría de un paciente con enfermedad obstructiva crónica y funcion renal conservada podrían ser:",
+                            "year": "Aston 2024",
+                            "imageURL": "",
+                            "options": [
+                                "pH = 7,3 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 110 mM",
+                                "pH = 7,2 - HCO<sub>3</sub><sup>-</sup> = 30 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                                "pH = 7,0 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                                "pH = 7,4 - HCO<sub>3</sub><sup>-</sup> = 15 mM - Na<sup>+</sup> = 135 mM - K<sup>+</sup> = 5 mM - Cl<sup>-</sup> = 95 mM",
+                                "Ninguna de las anteriores"
+                            ],
+                            "answer": "b",
+                            "imageanswerURL": "",
+                            "explicacion": ""
+                        }
+                    ]
+                },
+                "Aminoácidos, estructura y modificaciones postraduccionales": {
+                    "questions": [
+                        {
+                            "question": "Las mutaciones A125E y D228W conllevarían a que la prot. mutante resultante tenga:",
+                            "year": "Aston 2024",
+                            "imageURL": "",
+                            "options": [
+                                "Mayor carga neta positiva que la proteína normal.",
+                                "Mayor carga neta negativa que la proteína normal.",
+                                "Mayor contenido en aminoácidos esenciales que la normal.",
+                                "Mayor número de sitios posibles de ser glicosilados.",
+                                "Ninguna de las anteriores."
+                            ],
+                            "answer": "b",
+                            "imageanswerURL": "",
+                            "explicacion": "El aminoácido Alanina (A) se sustituye por el aminoácido Glutamano(E).<br>El aminoácido Aspartato(D) se sustituye por el aminoácido Triptófano(W).<br><br>Alanina es un aminoácido neutro apolar y cambia a Glutamato que es polar con carga negativa.<br>Aspartato es un aminoácido polar con carga negativa y cambia a Triptófano que es neutro apolar.<br><br>El balance de carga no cambia, en la primera mutación pasa de neutro a negativo y en la segunda pasa de negativo a neutro.<br><br>En la segunda mutación se sustutiye Aspartato (no esencial) por Triptófano (esencial)."
+                        }
+                    ]
                 }
-            ]
+
+            }
         },
-        "Unidad 2: Proteínas Globulares": {
+        "Parcial 2:": {
             "subtopics": {
                 "Mioglobina": {
                     "questions": [
